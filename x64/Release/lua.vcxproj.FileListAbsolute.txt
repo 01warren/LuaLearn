@@ -1,0 +1,2 @@
+D:\win\lua\x64\Release\lua.exe
+D:\win\LuaLearn\x64\Release\lua.exe
